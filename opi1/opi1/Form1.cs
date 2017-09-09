@@ -13,6 +13,7 @@ namespace opi1
     public partial class Form1 : Form
     {
         double a, b;
+
         public Form1()
         {
             InitializeComponent();
@@ -22,25 +23,52 @@ namespace opi1
             textBox2.Text = textBox1.Text;
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-            try {
+
+        }
+        private void textBox6_KeyUp(object sender, KeyEventArgs e)
+        {
+            textBox5.Text = textBox6.Text;
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
                 a = Convert.ToDouble(textBox3.Text);
+            }
+            catch (System.FormatException)
+            {
+                if (textBox3.Text == "-" || textBox3.Text == "")
+                {
+                    return;
+                }
+                textBox3.Clear();
+                MessageBox.Show("Please enter only numbers.");
+            }
+
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
                 b = Convert.ToDouble(textBox4.Text);
                 textBox7.Text = Convert.ToString(a - b);
             }
             catch (System.FormatException)
             {
-                MessageBox.Show("Enter only digits!");
-                textBox3.Text = String.Empty;
-                textBox4.Text = String.Empty;
+                if (textBox4.Text == "-" || textBox4.Text == "")
+                {
+                    return;
+                }
+                textBox4.Clear();
+                MessageBox.Show("Please enter only numbers.");
             }
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
 
         }
 
     }
 }
+    
