@@ -1,0 +1,12 @@
+C:\Users\DDD\Documents\Visual Studio 2012\Projects\opi1\opi1\bin\Debug\opi1.exe.config
+C:\Users\DDD\Documents\Visual Studio 2012\Projects\opi1\opi1\obj\Debug\opi1.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\Visual Studio 2012\Projects\opi1\opi1\obj\Debug\opi1.Form1.resources
+C:\Users\DDD\Documents\Visual Studio 2012\Projects\opi1\opi1\obj\Debug\opi1.Properties.Resources.resources
+C:\Users\DDD\Documents\Visual Studio 2012\Projects\opi1\opi1\obj\Debug\opi1.csproj.GenerateResource.Cache
+C:\Users\DDD\Documents\Visual Studio 2012\Projects\opi1\opi1\bin\Debug\opi1.exe
+C:\Users\DDD\Documents\Visual Studio 2012\Projects\opi1\opi1\bin\Debug\opi1.pdb
+C:\Users\DDD\Documents\Visual Studio 2012\Projects\opi1\opi1\obj\Debug\opi1.exe
+C:\Users\DDD\Documents\Visual Studio 2012\Projects\opi1\opi1\obj\Debug\opi1.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\opi1\opi1\bin\Debug\opi1.exe.config
+C:\Users\DDD\Documents\2_KURS\OPI\opi1\opi1\obj\Debug\opi1.exe
+C:\Users\DDD\Documents\2_KURS\OPI\opi1\opi1\obj\Debug\opi1.pdb
