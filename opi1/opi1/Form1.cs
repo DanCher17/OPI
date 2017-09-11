@@ -18,22 +18,20 @@ namespace opi1
         {
             InitializeComponent();
         }
+        //1
         private void button1_Click(object sender, EventArgs e)
         {
             textBox2.Text = textBox1.Text;
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
+        //2
         private void textBox6_KeyUp(object sender, KeyEventArgs e)
         {
             textBox5.Text = textBox6.Text;
         }
-
+        //3
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
+            textBox3.ForeColor = Color.Black;
             try
             {
                 a = Convert.ToDouble(textBox3.Text);
@@ -44,14 +42,13 @@ namespace opi1
                 {
                     return;
                 }
-                textBox3.Clear();
-                MessageBox.Show("Please enter only numbers.");
+                textBox3.ForeColor = Color.Red;
             }
 
         }
-
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
+            textBox4.ForeColor = Color.Black;
             try
             {
                 b = Convert.ToDouble(textBox4.Text);
@@ -63,8 +60,7 @@ namespace opi1
                 {
                     return;
                 }
-                textBox4.Clear();
-                MessageBox.Show("Please enter only numbers.");
+                textBox4.ForeColor = Color.Red;
             }
 
         }

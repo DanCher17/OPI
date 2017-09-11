@@ -1,0 +1,9 @@
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.2\opi2.2\bin\Debug\opi2.2.exe.config
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.2\opi2.2\bin\Debug\opi2.2.exe
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.2\opi2.2\bin\Debug\opi2.2.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.2\opi2.2\obj\Debug\opi2._2.Form1.resources
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.2\opi2.2\obj\Debug\opi2._2.Properties.Resources.resources
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.2\opi2.2\obj\Debug\opi2.2.csproj.GenerateResource.Cache
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.2\opi2.2\obj\Debug\opi2.2.exe
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.2\opi2.2\obj\Debug\opi2.2.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.2\opi2.2\obj\Debug\opi2.2.csprojResolveAssemblyReference.cache
