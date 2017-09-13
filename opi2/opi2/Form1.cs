@@ -21,24 +21,23 @@ namespace opi2
         {
             label2.Text = Convert.ToString(numericUpDown1.Value);
 
+            int s = Convert.ToInt32(numericUpDown2.Value);
             int a = Convert.ToInt32(numericUpDown1.Value);
+
             int i = 0;
             int result = 1;
+
+            progressBar1.Value = 0;
             progressBar1.Minimum = 0;
-            progressBar1.Maximum = 1000;
-            try
+            progressBar1.Maximum = s;
+
+            while (i < s)
             {
-                while (i < Convert.ToInt32(numericUpDown2.Value))
-                {
-                    i++;
-                    result *= a;
-                    progressBar1.Value = result;
-                }
+                i++;
+                progressBar1.Value++;
+                result *= a;
             }
-            catch (System.ArgumentOutOfRangeException)
-            {
-                label4.Text = "Maximum value is 1000";
-            }
+
             textBox1.Text = Convert.ToString(result);
         }
 
@@ -46,25 +45,23 @@ namespace opi2
         {
             label3.Text = Convert.ToString(numericUpDown2.Value);
 
+            int s = Convert.ToInt32(numericUpDown2.Value);
             int a = Convert.ToInt32(numericUpDown1.Value);
+
             int i = 0;
             int result = 1;
+
+            progressBar1.Value = 0;
             progressBar1.Minimum = 0;
-            progressBar1.Maximum = 1000;
-            try
+            progressBar1.Maximum = s;
+
+            while (i < s)
             {
-                label4.Text = " ";
-                while (i < Convert.ToInt32(numericUpDown2.Value))
-                {
-                    i++;
-                    result *= a;
-                    progressBar1.Value = result;
-                }
+                i++;
+                progressBar1.Value++;
+                result *= a;
             }
-            catch (System.ArgumentOutOfRangeException) 
-            {
-                label4.Text = "Too big digit";
-            }
+
             textBox1.Text = Convert.ToString(result);
         }
 
