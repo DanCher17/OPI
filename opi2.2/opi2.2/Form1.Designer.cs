@@ -171,7 +171,7 @@
             this.Controls.Add(this.listView2);
             this.Controls.Add(this.listView1);
             this.Name = "Form1";
-            this.Text = "LB2.2";
+            this.Text = "Чорнобель Д.С. КНТ-116 ЛР 2";
             this.ResumeLayout(false);
             this.PerformLayout();
 

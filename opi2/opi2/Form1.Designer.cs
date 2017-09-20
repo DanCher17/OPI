@@ -43,7 +43,7 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(38, 89);
+            this.numericUpDown1.Location = new System.Drawing.Point(91, 90);
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(36, 20);
             this.numericUpDown1.TabIndex = 0;
@@ -51,7 +51,7 @@
             // 
             // numericUpDown2
             // 
-            this.numericUpDown2.Location = new System.Drawing.Point(83, 89);
+            this.numericUpDown2.Location = new System.Drawing.Point(136, 90);
             this.numericUpDown2.Name = "numericUpDown2";
             this.numericUpDown2.Size = new System.Drawing.Size(39, 20);
             this.numericUpDown2.TabIndex = 1;
@@ -59,21 +59,21 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(74, 125);
+            this.textBox1.Location = new System.Drawing.Point(127, 126);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(74, 20);
             this.textBox1.TabIndex = 2;
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(20, 154);
+            this.progressBar1.Location = new System.Drawing.Point(73, 155);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(136, 23);
             this.progressBar1.TabIndex = 3;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(47, 205);
+            this.button1.Location = new System.Drawing.Point(100, 206);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 4;
@@ -86,7 +86,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(45, 37);
+            this.label2.Location = new System.Drawing.Point(98, 38);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(42, 46);
             this.label2.TabIndex = 6;
@@ -98,7 +98,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(86, 20);
+            this.label3.Location = new System.Drawing.Point(139, 21);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(23, 25);
             this.label3.TabIndex = 7;
@@ -108,7 +108,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Cursor = System.Windows.Forms.Cursors.SizeAll;
-            this.label1.Location = new System.Drawing.Point(26, 128);
+            this.label1.Location = new System.Drawing.Point(79, 129);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(46, 13);
             this.label1.TabIndex = 8;
@@ -118,7 +118,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.ForeColor = System.Drawing.Color.Red;
-            this.label4.Location = new System.Drawing.Point(51, 185);
+            this.label4.Location = new System.Drawing.Point(104, 186);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(0, 13);
             this.label4.TabIndex = 9;
@@ -127,7 +127,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(177, 252);
+            this.ClientSize = new System.Drawing.Size(293, 252);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -138,7 +138,7 @@
             this.Controls.Add(this.numericUpDown2);
             this.Controls.Add(this.numericUpDown1);
             this.Name = "Form1";
-            this.Text = "LB2.1";
+            this.Text = "Чорнобель Д.С. КНТ-116 ЛР 2";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
             this.ResumeLayout(false);
