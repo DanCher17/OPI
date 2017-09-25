@@ -71,21 +71,38 @@ namespace Opi_3._1
 
         private void button2_Click(object sender, EventArgs e)
         {
-           switch (calc.Text[1]) {
-                case '+':
-                    result.Text = Convert.ToString(Convert.ToInt32("" + calc.Text[0]) + Convert.ToInt32("" + calc.Text[2]));
-                    break;
-                case '-':
-                    result.Text = Convert.ToString(Convert.ToInt32("" + calc.Text[0]) - Convert.ToInt32("" + calc.Text[2]));
-                    break;
-                case '*':
-                    result.Text = Convert.ToString(Convert.ToInt32("" + calc.Text[0]) * Convert.ToInt32("" + calc.Text[2]));
-                    break;
-                case '/':
-                    result.Text = Convert.ToString(Convert.ToInt32("" + calc.Text[0]) / Convert.ToInt32("" + calc.Text[2]));
-                    break;
+            string pattern = @"\d+";
+            Regex regex = new Regex(pattern);
+            Match match = regex.Match(calc.Text);
+
+            int[] a = new int[2];
+
+            int j = 0;
+            while (match.Success)
+            {
+                a[j] = Convert.ToInt32(match.Value);
+                match = match.NextMatch();
+                j++;
             }
 
+            for (int i = 0; i < calc.Text.Length; i++)
+            {
+                switch (calc.Text[i])
+                {
+                    case '+':
+                        result.Text = Convert.ToString(a[0] + a[1]);
+                        break;
+                    case '-':
+                        result.Text = Convert.ToString(a[0] - a[1]);
+                        break;
+                    case '*':
+                        result.Text = Convert.ToString(a[0] * a[1]);
+                        break;
+                    case '/':
+                        result.Text = Convert.ToString(a[0] / a[1]);
+                        break;
+                }
+            }
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -110,8 +127,6 @@ namespace Opi_3._1
                 label17.Text = "Equal";
             else
                 label17.Text = "Not equal";
-        }
-
-      
+        } 
     }
 }
