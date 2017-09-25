@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
+
+
 
 namespace Opi_3._1
 {
@@ -19,7 +22,51 @@ namespace Opi_3._1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string str = textBox1.Text;
 
+            string piece = "";
+            string piece2 = "";
+
+            string result = "";
+            int count = 0;
+
+            for (int i = 0; i < str.Length - 1; i++)
+            {
+                if (str[i] == str[i + 1])
+                {
+                    count++;
+                }
+                else if (str[i] != str[i + 1])
+                {
+                    if (count != 0)
+                    {
+                        piece = Convert.ToString(str[i]) + Convert.ToString(count + 1);
+                    }
+                    else piece = Convert.ToString(str[i]);
+
+                    count = 0;
+                    result += piece;
+                }
+
+                if (i == str.Length - 2)
+                {
+                    if (count != 0)
+                    {
+                        piece2 = Convert.ToString(str[i + 1]) + Convert.ToString(count + 1);
+                        result += piece2;
+                    }
+                    else result += str[i + 1];
+                }
+
+            }
+            textBox2.Text = result;
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            var regex = new Regex(@"(?<char>.)(?<count>\d+)");
+            textBox2.Text = regex.Replace(textBox2.Text, m => new string(m.Groups["char"].Value[0], int.Parse(m.Groups["count"].Value)));
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -64,5 +111,7 @@ namespace Opi_3._1
             else
                 label17.Text = "Not equal";
         }
+
+      
     }
 }
