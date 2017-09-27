@@ -21,12 +21,12 @@ namespace opi2._2
         {
             int idx;
             ListView.SelectedIndexCollection collection = listView1.SelectedIndices;
-            
+
             if (collection.Count == 0)
             {
-                idx = 0;
+                idx = listView1.Items.Count;
             }
-            else idx = collection[0];
+            else idx = collection[0] + 1;
             
            listView1.Items.Insert(idx, textBox1.Text);
            textBox1.Clear();
@@ -39,10 +39,10 @@ namespace opi2._2
 
             if (collection.Count == 0)
             {
-                idx = 0;
+                idx = listView2.Items.Count;
             }
-            else idx = collection[0];
-
+            else idx = collection[0] + 1;
+          
             listView2.Items.Insert(idx, textBox2.Text);
             textBox2.Clear();
         }
@@ -54,8 +54,7 @@ namespace opi2._2
                 ListViewItem itemToAdd = (ListViewItem)listItemToMove.Clone();
                 listView2.Items.Add(itemToAdd);
                 listView1.Items.Remove(listItemToMove);
-            }
-            
+            } 
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -83,7 +82,5 @@ namespace opi2._2
                 listView2.Items.Remove(eachItem);
             }
         }
-
-        
     }
 }

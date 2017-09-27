@@ -59,7 +59,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(13, 108);
+            this.label1.Location = new System.Drawing.Point(77, 108);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(59, 13);
             this.label1.TabIndex = 2;
@@ -67,9 +67,9 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(74, 105);
+            this.textBox2.Location = new System.Drawing.Point(138, 105);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(262, 20);
+            this.textBox2.Size = new System.Drawing.Size(132, 20);
             this.textBox2.TabIndex = 3;
             // 
             // progressBar1
