@@ -114,7 +114,6 @@ namespace Opi_3._1
         {
             char[] charsToTrim = textBox7.Text.ToCharArray();
             label16.Text = textBox6.Text.TrimEnd(charsToTrim);
-
         }
 
         private void button6_Click(object sender, EventArgs e)
