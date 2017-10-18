@@ -393,21 +393,21 @@
             // 
             // Save
             // 
-            this.Save.Location = new System.Drawing.Point(8, 280);
+            this.Save.Location = new System.Drawing.Point(113, 316);
             this.Save.Name = "Save";
             this.Save.Size = new System.Drawing.Size(75, 23);
             this.Save.TabIndex = 44;
-            this.Save.Text = "Save";
+            this.Save.Text = "Сохранить";
             this.Save.UseVisualStyleBackColor = true;
             this.Save.Click += new System.EventHandler(this.Save_Click);
             // 
             // Open
             // 
-            this.Open.Location = new System.Drawing.Point(94, 280);
+            this.Open.Location = new System.Drawing.Point(32, 316);
             this.Open.Name = "Open";
             this.Open.Size = new System.Drawing.Size(75, 23);
             this.Open.TabIndex = 45;
-            this.Open.Text = "Open";
+            this.Open.Text = "Открыть";
             this.Open.UseVisualStyleBackColor = true;
             this.Open.Click += new System.EventHandler(this.Open_Click);
             // 
@@ -415,7 +415,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(618, 315);
+            this.ClientSize = new System.Drawing.Size(626, 364);
             this.Controls.Add(this.Open);
             this.Controls.Add(this.Save);
             this.Controls.Add(this.label20);
