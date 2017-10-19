@@ -44,7 +44,7 @@ namespace opi_52
                     Point pos = new Point(button.Location.X, i);
                     button.Location = pos;
                     i--;
-                }
+                } 
             }
             if (button.Location.X < 90)
             {

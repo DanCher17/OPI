@@ -52,7 +52,7 @@
             // position
             // 
             this.position.AutoSize = true;
-            this.position.Location = new System.Drawing.Point(20, 320);
+            this.position.Location = new System.Drawing.Point(130, 200);
             this.position.Name = "position";
             this.position.Size = new System.Drawing.Size(96, 13);
             this.position.TabIndex = 1;
@@ -61,7 +61,7 @@
             // position2
             // 
             this.position2.AutoSize = true;
-            this.position2.Location = new System.Drawing.Point(110, 320);
+            this.position2.Location = new System.Drawing.Point(220, 200);
             this.position2.Name = "position2";
             this.position2.Size = new System.Drawing.Size(0, 13);
             this.position2.TabIndex = 3;
@@ -69,7 +69,7 @@
             // part
             // 
             this.part.AutoSize = true;
-            this.part.Location = new System.Drawing.Point(130, 340);
+            this.part.Location = new System.Drawing.Point(240, 220);
             this.part.Name = "part";
             this.part.Size = new System.Drawing.Size(0, 13);
             this.part.TabIndex = 4;
@@ -77,7 +77,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(20, 340);
+            this.label1.Location = new System.Drawing.Point(130, 220);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(106, 13);
             this.label1.TabIndex = 5;
