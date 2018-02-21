@@ -1,9 +1,0 @@
-C:\Users\DDD\Documents\2_KURS\OPI\opi_5\opi_5\bin\Debug\opi_5.exe.config
-C:\Users\DDD\Documents\2_KURS\OPI\opi_5\opi_5\bin\Debug\opi_5.exe
-C:\Users\DDD\Documents\2_KURS\OPI\opi_5\opi_5\bin\Debug\opi_5.pdb
-C:\Users\DDD\Documents\2_KURS\OPI\opi_5\opi_5\obj\Debug\opi_5.Form1.resources
-C:\Users\DDD\Documents\2_KURS\OPI\opi_5\opi_5\obj\Debug\opi_5.Properties.Resources.resources
-C:\Users\DDD\Documents\2_KURS\OPI\opi_5\opi_5\obj\Debug\opi_5.csproj.GenerateResource.Cache
-C:\Users\DDD\Documents\2_KURS\OPI\opi_5\opi_5\obj\Debug\opi_5.exe
-C:\Users\DDD\Documents\2_KURS\OPI\opi_5\opi_5\obj\Debug\opi_5.pdb
-C:\Users\DDD\Documents\2_KURS\OPI\opi_5\opi_5\obj\Debug\opi_5.csprojResolveAssemblyReference.cache

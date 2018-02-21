@@ -1,0 +1,21 @@
+C:\Users\DDD\Documents\2_KURS\OPI\opi_71\opi_71\bin\Debug\opi_71.exe.config
+C:\Users\DDD\Documents\2_KURS\OPI\opi_71\opi_71\bin\Debug\opi_71.exe
+C:\Users\DDD\Documents\2_KURS\OPI\opi_71\opi_71\bin\Debug\opi_71.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\opi_71\opi_71\obj\Debug\opi_71.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\2_KURS\OPI\opi_71\opi_71\obj\Debug\opi_71.Form1.resources
+C:\Users\DDD\Documents\2_KURS\OPI\opi_71\opi_71\obj\Debug\opi_71.Properties.Resources.resources
+C:\Users\DDD\Documents\2_KURS\OPI\opi_71\opi_71\obj\Debug\opi_71.csproj.GenerateResource.Cache
+C:\Users\DDD\Documents\2_KURS\OPI\opi_71\opi_71\obj\Debug\opi_71.exe
+C:\Users\DDD\Documents\2_KURS\OPI\opi_71\opi_71\obj\Debug\opi_71.pdb
+C:\Users\DDD\Desktop\Новая папка\7.1\opi_71\bin\Debug\opi_71.exe.config
+C:\Users\DDD\Desktop\Новая папка\7.1\opi_71\obj\Debug\opi_71.exe
+C:\Users\DDD\Desktop\Новая папка\7.1\opi_71\obj\Debug\opi_71.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\7.1\opi_71\bin\Debug\opi_71.exe.config
+C:\Users\DDD\Documents\2_KURS\OPI\7.1\opi_71\obj\Debug\opi_71.exe
+C:\Users\DDD\Documents\2_KURS\OPI\7.1\opi_71\obj\Debug\opi_71.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\7.1\opi_71\bin\Debug\opi_71.exe
+C:\Users\DDD\Documents\2_KURS\OPI\7.1\opi_71\bin\Debug\opi_71.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\7.1\opi_71\obj\Debug\opi_71.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\2_KURS\OPI\7.1\opi_71\obj\Debug\opi_71.Form1.resources
+C:\Users\DDD\Documents\2_KURS\OPI\7.1\opi_71\obj\Debug\opi_71.Properties.Resources.resources
+C:\Users\DDD\Documents\2_KURS\OPI\7.1\opi_71\obj\Debug\opi_71.csproj.GenerateResource.Cache

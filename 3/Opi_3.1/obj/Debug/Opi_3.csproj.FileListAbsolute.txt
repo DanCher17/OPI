@@ -1,0 +1,8 @@
+C:\Users\DDD\Desktop\Новая папка\3\Opi_3.1\bin\Debug\Opi_3.1.exe.config
+C:\Users\DDD\Desktop\Новая папка\3\Opi_3.1\obj\Debug\Opi_3.1.exe
+C:\Users\DDD\Desktop\Новая папка\3\Opi_3.1\obj\Debug\Opi_3.1.pdb
+C:\Users\DDD\Desktop\Новая папка\3\Opi_3.1\bin\Debug\Opi_3.1.exe
+C:\Users\DDD\Desktop\Новая папка\3\Opi_3.1\bin\Debug\Opi_3.1.pdb
+C:\Users\DDD\Desktop\Новая папка\3\Opi_3.1\obj\Debug\Opi_3._1.Form1.resources
+C:\Users\DDD\Desktop\Новая папка\3\Opi_3.1\obj\Debug\Opi_3._1.Properties.Resources.resources
+C:\Users\DDD\Desktop\Новая папка\3\Opi_3.1\obj\Debug\Opi_3.csproj.GenerateResource.Cache

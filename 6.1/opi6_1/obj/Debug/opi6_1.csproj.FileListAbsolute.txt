@@ -1,0 +1,9 @@
+C:\Users\DDD\Documents\2_KURS\OPI\opi6_1\opi6_1\bin\Debug\opi6_1.exe.config
+C:\Users\DDD\Documents\2_KURS\OPI\opi6_1\opi6_1\bin\Debug\opi6_1.exe
+C:\Users\DDD\Documents\2_KURS\OPI\opi6_1\opi6_1\bin\Debug\opi6_1.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\opi6_1\opi6_1\obj\Debug\opi6_1.Form1.resources
+C:\Users\DDD\Documents\2_KURS\OPI\opi6_1\opi6_1\obj\Debug\opi6_1.Properties.Resources.resources
+C:\Users\DDD\Documents\2_KURS\OPI\opi6_1\opi6_1\obj\Debug\opi6_1.csproj.GenerateResource.Cache
+C:\Users\DDD\Documents\2_KURS\OPI\opi6_1\opi6_1\obj\Debug\opi6_1.exe
+C:\Users\DDD\Documents\2_KURS\OPI\opi6_1\opi6_1\obj\Debug\opi6_1.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\opi6_1\opi6_1\obj\Debug\opi6_1.csprojResolveAssemblyReference.cache

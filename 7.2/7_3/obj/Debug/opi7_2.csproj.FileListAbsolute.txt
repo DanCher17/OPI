@@ -1,0 +1,9 @@
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\bin\Debug\7_3.exe.config
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\obj\Debug\7_3.exe
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\obj\Debug\7_3.pdb
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\bin\Debug\7_3.exe
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\bin\Debug\7_3.pdb
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\obj\Debug\_7_3.Form1.resources
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\obj\Debug\_7_3.Form2.resources
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\obj\Debug\_7_3.Properties.Resources.resources
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\obj\Debug\opi7_2.csproj.GenerateResource.Cache

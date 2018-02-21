@@ -1,0 +1,9 @@
+C:\Users\DDD\Documents\2_KURS\OPI\RGZ2\RGZ2\bin\Debug\RGZ2.exe.config
+C:\Users\DDD\Documents\2_KURS\OPI\RGZ2\RGZ2\bin\Debug\RGZ2.exe
+C:\Users\DDD\Documents\2_KURS\OPI\RGZ2\RGZ2\bin\Debug\RGZ2.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\RGZ2\RGZ2\obj\Debug\RGZ2.Form1.resources
+C:\Users\DDD\Documents\2_KURS\OPI\RGZ2\RGZ2\obj\Debug\RGZ2.Properties.Resources.resources
+C:\Users\DDD\Documents\2_KURS\OPI\RGZ2\RGZ2\obj\Debug\RGZ2.csproj.GenerateResource.Cache
+C:\Users\DDD\Documents\2_KURS\OPI\RGZ2\RGZ2\obj\Debug\RGZ2.exe
+C:\Users\DDD\Documents\2_KURS\OPI\RGZ2\RGZ2\obj\Debug\RGZ2.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\RGZ2\RGZ2\obj\Debug\RGZ2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\bin\Debug\7_3.exe.config
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\obj\Debug\7_3.exe
+C:\Users\DDD\Desktop\Новая папка\7.2\7_3\obj\Debug\7_3.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\8\7_3\bin\Debug\7_3.exe.config
+C:\Users\DDD\Documents\2_KURS\OPI\8\7_3\obj\Debug\7_3.exe
+C:\Users\DDD\Documents\2_KURS\OPI\8\7_3\obj\Debug\7_3.pdb

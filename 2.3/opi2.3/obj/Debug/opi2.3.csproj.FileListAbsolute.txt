@@ -1,0 +1,18 @@
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.3\opi2.3\bin\Debug\opi2.3.exe.config
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.3\opi2.3\bin\Debug\opi2.3.exe
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.3\opi2.3\bin\Debug\opi2.3.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.3\opi2.3\obj\Debug\opi2._3.Form1.resources
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.3\opi2.3\obj\Debug\opi2._3.Properties.Resources.resources
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.3\opi2.3\obj\Debug\opi2.3.csproj.GenerateResource.Cache
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.3\opi2.3\obj\Debug\opi2.3.exe
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.3\opi2.3\obj\Debug\opi2.3.pdb
+C:\Users\DDD\Documents\2_KURS\OPI\opi2.3\opi2.3\obj\Debug\opi2.3.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Desktop\Новая папка\2.3\opi2.3\bin\Debug\opi2.3.exe.config
+C:\Users\DDD\Desktop\Новая папка\2.3\opi2.3\obj\Debug\opi2.3.exe
+C:\Users\DDD\Desktop\Новая папка\2.3\opi2.3\obj\Debug\opi2.3.pdb
+C:\Users\DDD\Desktop\Новая папка\2.3\opi2.3\bin\Debug\opi2.3.exe
+C:\Users\DDD\Desktop\Новая папка\2.3\opi2.3\bin\Debug\opi2.3.pdb
+C:\Users\DDD\Desktop\Новая папка\2.3\opi2.3\obj\Debug\opi2.3.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Desktop\Новая папка\2.3\opi2.3\obj\Debug\opi2._3.Form1.resources
+C:\Users\DDD\Desktop\Новая папка\2.3\opi2.3\obj\Debug\opi2._3.Properties.Resources.resources
+C:\Users\DDD\Desktop\Новая папка\2.3\opi2.3\obj\Debug\opi2.3.csproj.GenerateResource.Cache
